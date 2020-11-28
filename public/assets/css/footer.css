@@ -1,0 +1,41 @@
+.kaki1{
+    margin-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-size: 20px;
+    font-weight : bold;
+}
+.kaki2{
+    margin-top: 12px;
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-size: 16px;
+    font-weight : bold;
+}
+.follow{
+    height: 26px;
+    width: 42px;
+}
+.copyright{
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-size: 20px;
+    font-weight : bold;
+}
+footer{
+    background-color: #cfcfc4;
+    opacity: 0.8;
+}
+hr{
+    width: 100%;
+    height: 3px;
+    border: none;
+    background-color: #cfcfcf;
+}
+h3{
+    font-family: 'Roboto Condensed', sans-serif;  
+    text-align: justify;
+    color: #404d4d;
+}
+.tulisan{
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-weight : bold;
+}

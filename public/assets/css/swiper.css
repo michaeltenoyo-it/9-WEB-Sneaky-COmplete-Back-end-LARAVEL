@@ -1,0 +1,15 @@
+html, body {
+    position: relative;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.swiper-button{
+    color:#cfcfcf;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+}
